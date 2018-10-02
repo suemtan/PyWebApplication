@@ -1,5 +1,0 @@
-# PythonWebApp
-# Git
-# HTML
-# CSS
-

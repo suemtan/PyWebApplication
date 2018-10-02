@@ -1,0 +1,21 @@
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    color: orange;
+ }
+p {
+    padding-left: 20px;
+    font-size: 20px;
+    color: red;
+ }
+div {
+    font-family: Arial, sans-serif;;
+    background-color: teal;
+    width: 400px;
+    height: 400px;
+ }
+
+
+
